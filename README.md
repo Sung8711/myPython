@@ -1,2 +1,2 @@
 # myPython
-All Python code when I study NIU
+All Python code when I studied in NIU
